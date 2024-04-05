@@ -1,4 +1,4 @@
-const Button = ({ label, iconURL, backgroundColor, borderColor }) => {
+const Button = ({ label, iconURL, backgroundColor, borderColor, }) => {
   return (
     <button className={`flex justify-center items-center 
                         gap-2 px-8 py-4 border font-montserrat
