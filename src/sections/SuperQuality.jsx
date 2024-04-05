@@ -1,5 +1,5 @@
 import Button from "../Components/Button";
-import { shoe8 } from "../assets/images";
+import shoe8 from "../assets/images"
 
 const SuperQuality = () => {
   return (
@@ -24,7 +24,7 @@ const SuperQuality = () => {
         </p>
         <p className="mt-6 lg:max-w-lg info-text">Lorem ipsum dolor sit amet consectetur adipisicing elit. Rerum.</p>
         <div className="mt-11">
-          <Button label="View Details" />
+          <Button label="View Details"/>
         </div>
       </div>
 
